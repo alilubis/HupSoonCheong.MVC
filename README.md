@@ -1,4 +1,4 @@
-STEP TO RUNNING THE APP :
+STEP TO RUNNING THE MIGRATIONS :
 
 1. Open Package Manager Console
 2. Paste and run : Install-Package Microsoft.EntityFrameworkCore.Tools 
